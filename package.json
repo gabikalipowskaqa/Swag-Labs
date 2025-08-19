@@ -1,0 +1,20 @@
+{
+  "name": "swag-labs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "test:open": "cypress open"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "swag-labs"
+  },
+  "author": "gabriela",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^14.5.4"
+  }
+}
