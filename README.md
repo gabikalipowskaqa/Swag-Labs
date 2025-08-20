@@ -1,7 +1,7 @@
 #  Cypress testy pre prihlasovaciu stranku https://www.saucedemo.com
 
 Tento projekt obsahuje testy v Cypresse, ktore overuju zakladnu funkcionalitu prihlasovacej stranky aplikacie https://www.saucedemo.com. 
-Testy pokryvaja happy path scenare, negativne pripady a validaciu roznych vstupovu.
+Testy pokryvaja happy path scenare, negativne pripady a validaciu roznych vstupov.
 
 
 # Struktura projektu
